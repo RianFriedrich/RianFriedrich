@@ -35,49 +35,30 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
     <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br>Vue.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=angular" /><br>Angular</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dart" /><br>Dart</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" /><br>Kotlin</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" /><br>C#</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /><br>Couchbase
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>C#
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
-  </tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" /><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" /><br>Angular
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL
-    </td>
   </tr>
 </table>
 
