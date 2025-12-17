@@ -1,6 +1,6 @@
-# Olá! Eu sou Rian Friedrich 👨‍💻
+# Rian Friedrich 👨‍💻
 
-Seja bem-vindo ao meu perfil! Sou um **Full Stack & Mobile Developer** apaixonado por tecnologia, atualmente baseado em **Santa Maria, Rio Grande do Sul, Brasil** 🇧🇷.
+Sou um **Full Stack & Mobile Developer** apaixonado por tecnologia, atualmente morando em **Santa Maria, Rio Grande do Sul, Brasil** 🇧🇷.
 
 ---
 
