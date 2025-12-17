@@ -65,4 +65,36 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" /><br>Angular
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL
+    </td>
+  </tr>
 </table>
+
+## 📫 Informações de Contato
+
+<a href="mailto:rianbeskowfriedrich@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rian-friedrich-177029390/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rian_friedrich_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
+
+</div>
