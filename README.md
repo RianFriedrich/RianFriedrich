@@ -27,7 +27,29 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
 
 ## 🛠️ Tecnologias que utilizo
 
-<img src="https://skillicons.dev/icons?i=python,django,java,js,html,vue,bootstrap,tailwind,flutter,dart,androidstudio,mysql,firebase,cpp,csharp" />
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" /><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" /><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br>HTML</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br>Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" /><br>Dart</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" /><br>C#</td>
+  </tr>
+</table>
 
 ---
 
