@@ -27,6 +27,8 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
 
 ## 🛠️ Tecnologias que utilizo
 
+<sub>Principais tecnologias em uso atualmente</sub>
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br>Python</td>
@@ -55,6 +57,27 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
+  </tr>
+</table>
+
+---
+
+## 📚 Tecnologias em aprendizado / estudo
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" /><br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" /><br>Angular
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL
+    </td>
   </tr>
 </table>
 
