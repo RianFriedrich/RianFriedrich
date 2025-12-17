@@ -38,7 +38,25 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br>Vue.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap</td>
-    <td align="center"><img src="http
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" /><br>Dart</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /><br>Couchbase
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
+  </tr>
+</table>
 
 ---
 
