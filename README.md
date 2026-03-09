@@ -57,7 +57,7 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /><br>C / C++</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" /><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" /><br>C#</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase</td>
