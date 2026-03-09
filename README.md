@@ -16,6 +16,7 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
 **Mobile:** Flutter (Dart), Android Studio
 **Banco de Dados:** MySQL, Firebase, Couchbase
 
+Eu também possui um amplo conhecimento em redes de computadores e segurança de dados.
 ---
 
 ## 📊 Estatísticas do GitHub
