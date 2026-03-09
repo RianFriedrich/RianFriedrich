@@ -29,9 +29,6 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianFriedrich&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="165"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RianFriedrich&theme=tokyonight&hide_border=true"
-  />
 </p>
 
 ---
