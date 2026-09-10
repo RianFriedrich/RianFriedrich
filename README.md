@@ -22,13 +22,10 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
 ## 📊 Estatísticas do GitHub
 
 
-```html
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=RianFriedrich&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RianFriedrich&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
-
 
 ---
 
