@@ -22,8 +22,8 @@ Desenvolvedor **Full Stack & Mobile**, com foco em soluções modernas, escaláv
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RianFriedrich&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RianFriedrich&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="165" src="./profile/stats.svg"/>
+  <img height="165" src="./profile/top-langs.svg"/>
 </p>
 
 ---
